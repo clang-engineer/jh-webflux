@@ -41,6 +41,8 @@
     "jwtSecretKey": "N2I4MzIzNWVmNjdmMGI3MDAxNDgxN2RiNDU5NDFjMmIzYmU0NDFhMzc4ZjE1NzE4YTk4OTAxZmQ1YWFhMGY2MGVkMmFkZWE0N2Y5Y2YwNzEyMTU4ODM2NzQxYjVjYWEzOTk1Mzc4MmE3YTQzMzQ5MzQyYmI1MjljNzJmZDQ1M2U=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1622078603000,
+    "entities": ["Point"]
   }
 }
